@@ -69,11 +69,14 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
  Developed by: RegisterNumber: 
  
 **Logic symbol & Truthtable**
+![2](https://github.com/user-attachments/assets/b05c9db8-f40b-475e-a122-72f01d4806c2)
 
 **RTL realization Output:** 
+![3](https://github.com/user-attachments/assets/13543c59-2f52-4882-b950-adb469cbf594)
 
 **RTL**
+![1](https://github.com/user-attachments/assets/4bce33cc-30d3-4a56-a904-91662f1b8c15)
 
 **Result:**
-
+ The truth tablecof the specified logic gates (AND, OR, NOT, NAND, NOR, XOR, XNOR) was successfully implemented and verified using Verilog programming in Quartus II
 
